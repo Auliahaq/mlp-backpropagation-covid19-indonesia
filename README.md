@@ -42,10 +42,3 @@ https://www.kaggle.com/datasets/hendratno/covid19-indonesia
 - Pandas
 - Google Colab
 
-## Authors
-- Aulia Haq
-- Aurelia Salsabilla Yunanto Putri
-- Rania Putri Zayyanti
-
-## Catatan
-Proyek ini dibuat untuk keperluan akademik dan pembelajaran.
